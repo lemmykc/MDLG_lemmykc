@@ -1,3 +1,13 @@
+## Who am I
+My name is Liam Carroll and I am currently completing a Masters of Mathematics at The University of Melbourne. I am completing the research component of my degree primarily under the supervision of [Dr Daniel Murfet](http://therisingsea.org) as part of the [Melbourne Deep Learning Group](http://mdlg.ai). 
+
+## Current work
+The topic of my upcoming thesis is Phase Transitions in ReLU Neural Networks, which has demonstrated the existence of phase transitions in small ReLU networks using the theoretical grounding of Sumio Watanabe's Singular Learning Theory. 
+
+Dan told me to make this website. 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lemmykc/MDLG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
