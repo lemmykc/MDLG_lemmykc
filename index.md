@@ -3,7 +3,7 @@
 ## Who am I
 My name is Liam Carroll and I am currently completing a Masters of Mathematics at The University of Melbourne, majoring in Applied Mathematics, but trying to become a jack of all trades and master of none by doing pure mathematics and statistics, too. I am completing the research component of my degree primarily under the supervision of [Dr Daniel Murfet](http://therisingsea.org) as part of the [Melbourne Deep Learning Group](http://mdlg.ai). I also tutor first year mathematics such as Calculus 1 and Calculus 2 at Melbourne University. When I am not thinking about maths I am probably in a concert hall or on top of a mountain. 
 
-<img src="https://user-images.githubusercontent.com/19867845/129442837-bae2abc2-2f68-4ac9-babb-8cd846ef41a4.jpeg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/19867845/129442837-bae2abc2-2f68-4ac9-babb-8cd846ef41a4.jpeg" width="100" >
 
 ![Liam Graduate Pic](https://user-images.githubusercontent.com/19867845/129442837-bae2abc2-2f68-4ac9-babb-8cd846ef41a4.jpeg)
 
