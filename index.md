@@ -15,6 +15,8 @@ The topic of my upcoming thesis is Phase Transitions in ReLU Neural Networks, in
 
 You can read [Draft 0.5](Chopped_thesis_website.pdf) of this thesis, but be warned, this is quite incomplete. You probably shouldn't read it. But I'll be sure to upload the real version on October 8th 2021. 
 
+![exp46 15_nw=200_nsamp=4000_priorsd=1_pertang=0 00_xmax=2_wdensity](https://user-images.githubusercontent.com/19867845/129443206-9578bd51-39fa-4cfa-8b99-d4a9559683ee.png)
+
 
 ## Anything else? 
 Dan told me to make this website. So, _insert immortal words of Paul Roos [here](https://youtu.be/Da8qFbg3XZg)_. 
