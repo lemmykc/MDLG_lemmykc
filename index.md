@@ -5,7 +5,7 @@ My name is Liam Carroll and I am currently completing a Masters of Mathematics a
 
 <img src="https://user-images.githubusercontent.com/19867845/129442837-bae2abc2-2f68-4ac9-babb-8cd846ef41a4.jpeg" width="250" class="center">
 
-![Liam Graduate Pic](https://user-images.githubusercontent.com/19867845/129442837-bae2abc2-2f68-4ac9-babb-8cd846ef41a4.jpeg)
+<!-- ![Liam Graduate Pic](https://user-images.githubusercontent.com/19867845/129442837-bae2abc2-2f68-4ac9-babb-8cd846ef41a4.jpeg) -->
 
 
 ## Current work
